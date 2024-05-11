@@ -1,0 +1,15 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '* */12 * * *'
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: TG908/fork-sync@v1.6.3
+        with:
+          github_token: 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
+          owner: bitnami
+          head: main
+          base: main
