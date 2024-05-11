@@ -1,6 +1,14 @@
 name: Sync Fork
 
 on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'manual sync'
   schedule:
     - cron: '* */12 * * *'
 jobs:
