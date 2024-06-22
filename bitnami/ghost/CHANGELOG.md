@@ -1,8 +1,16 @@
 # Changelog
 
-## 21.1.12 (2024-06-20)
+## 21.1.14 (2024-06-22)
 
-* [bitnami/ghost] Release 21.1.12 ([#27459](https://github.com/bitnami/charts/pull/27459))
+* [bitnami/ghost] Release 21.1.14 ([#27492](https://github.com/bitnami/charts/pull/27492))
+
+## <small>21.1.13 (2024-06-21)</small>
+
+* [bitnami/ghost] Release 21.1.13 (#27489) ([3977682](https://github.com/bitnami/charts/commit/39776820174355ee88317cbadae0e5de6895abad)), closes [#27489](https://github.com/bitnami/charts/issues/27489)
+
+## <small>21.1.12 (2024-06-20)</small>
+
+* [bitnami/ghost] Release 21.1.12 (#27459) ([db8ef30](https://github.com/bitnami/charts/commit/db8ef3010877ac2e35832280157a289a4354f749)), closes [#27459](https://github.com/bitnami/charts/issues/27459)
 
 ## <small>21.1.11 (2024-06-18)</small>
 
