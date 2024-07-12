@@ -1,8 +1,16 @@
 # Changelog
 
-## 21.2.8 (2024-07-04)
+## 21.3.1 (2024-07-11)
 
-* [bitnami/elasticsearch] Release 21.2.8 ([#27801](https://github.com/bitnami/charts/pull/27801))
+* [bitnami/elasticsearch] Release 21.3.1 ([#27906](https://github.com/bitnami/charts/pull/27906))
+
+## 21.3.0 (2024-07-11)
+
+* [bitnami/elasticsearch] add persistentVolumeClaimRetentionPolicy to statefulset for master and data  ([2c4b4f2](https://github.com/bitnami/charts/commit/2c4b4f22acb66a3bd6712935d713a2f0d84eee27)), closes [#27866](https://github.com/bitnami/charts/issues/27866)
+
+## <small>21.2.8 (2024-07-04)</small>
+
+* [bitnami/elasticsearch] Release 21.2.8 (#27801) ([65e86d5](https://github.com/bitnami/charts/commit/65e86d56be5f92775828354000a2195ad0431086)), closes [#27801](https://github.com/bitnami/charts/issues/27801)
 
 ## <small>21.2.7 (2024-07-03)</small>
 
