@@ -1,8 +1,20 @@
 # Changelog
 
-## 1.3.4 (2024-09-24)
+## 1.3.7 (2024-09-26)
 
-* [bitnami/opensearch] Fix plugins installation ([#29586](https://github.com/bitnami/charts/pull/29586))
+* [bitnami/opensearch] Release 1.3.7 ([#29639](https://github.com/bitnami/charts/pull/29639))
+
+## <small>1.3.6 (2024-09-26)</small>
+
+* [bitnami/opensearch] Plugin installation as non-root user (#29624) ([bc87c42](https://github.com/bitnami/charts/commit/bc87c424bd5584e4735e7b4539a542f9e59aa0dc)), closes [#29624](https://github.com/bitnami/charts/issues/29624)
+
+## <small>1.3.5 (2024-09-26)</small>
+
+* [bitnami/opensearch] Release 1.3.5 (#29613) ([5a97a83](https://github.com/bitnami/charts/commit/5a97a83840a4811eae90ad74722f1f4fc7d39851)), closes [#29613](https://github.com/bitnami/charts/issues/29613)
+
+## <small>1.3.4 (2024-09-24)</small>
+
+* [bitnami/opensearch] Fix plugins installation (#29586) ([464c683](https://github.com/bitnami/charts/commit/464c683d543a7c39640f91fa49d6bd2902b2d331)), closes [#29586](https://github.com/bitnami/charts/issues/29586)
 
 ## <small>1.3.3 (2024-09-24)</small>
 
